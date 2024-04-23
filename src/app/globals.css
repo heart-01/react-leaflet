@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .my-popup {
-    width: 200px;
+    width: 500px;
 }
 
 .my-popup img {
